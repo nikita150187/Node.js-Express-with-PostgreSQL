@@ -1,0 +1,26 @@
+{
+  "name": "node.js-express-with-postgresql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikita150187/Node.js-Express-with-PostgreSQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikita150187/Node.js-Express-with-PostgreSQL/issues"
+  },
+  "homepage": "https://github.com/nikita150187/Node.js-Express-with-PostgreSQL#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "pg": "^8.15.6"
+  }
+}
